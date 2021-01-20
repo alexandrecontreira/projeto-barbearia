@@ -19,4 +19,6 @@ npm install
 > Observação a descrever
 
 ## Notas de Versão - Chengelog
-Para ver as alterações do projeto [clique aqui](CHANGELOG.md)
+Para ver as alterações do projeto [clique aqui](CHANGELOG.md) 
+
+## Referências
